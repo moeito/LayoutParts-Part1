@@ -1,1 +1,41 @@
 @charset "UTF-8";
+.graph {
+  width: 100%;
+}
+.main--area .graph {
+  display: table;
+}
+.separatedSpaces {
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+.redBox {
+  width: 300px;
+  background: #ff7b7b;
+}
+.blueBox {
+  background: #7b86ff;
+}
+.yellowBox {
+  width: 300px;
+  background: #fff27b;
+}
+
+.subGraph {
+  margin-top: 50px;
+}
+.greenBox {
+  background: #7bff91;
+}
+.pinkBox {
+  width: 400px;
+  background: #ff7be2;
+}
+.orangeBox {
+  width: 400px;
+  background: #ffc67b;
+}
+.skyblueBox {
+  background: #7bf2ff;
+}
